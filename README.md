@@ -3,7 +3,7 @@ Watch demo video at:
 https://youtu.be/jNUxWEiKLaQ
 
 
-Put the two file into Eclipse and run.
+Put JuliaSet.java and Mandelbrot.java into Eclipse and run.
 
 Two windows will appear. One with a Mandelbrot and the other with a Julia set.
 
